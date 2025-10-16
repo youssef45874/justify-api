@@ -1,4 +1,4 @@
-import * as express from "express";
+import express from "express";
 import { tokenRouter } from "./routes/token";
 import { justifyRouter } from "./routes/justify";
 
